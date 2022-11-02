@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "image": "/gallery/2.jpg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer",
+    "title": "Think of a title",
+    "primaryBtnText": "view",
+    "secondaryBtnText": "share",
+    "smallText": "8 min read"
+  },
+  {
+    "id": "2",
+    "image": "/gallery/3.jpg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer",
+    "title": "Unthinkable title",
+    "primaryBtnText": "view",
+    "secondaryBtnText": "share",
+    "smallText": "9 min read"
+  },
+  {
+    "id": "30",
+    "image": "/gallery/4.jpg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer",
+    "title": "Think loud",
+    "primaryBtnText": "view",
+    "secondaryBtnText": "share",
+    "smallText": "9 min read"
+  },
+  {
+    "id": "4",
+    "image": "/gallery/5.jpg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer",
+    "title": "Great thinkers",
+    "primaryBtnText": "view",
+    "secondaryBtnText": "share",
+    "smallText": "7 min read"
+  },
+  {
+    "id": "12",
+    "image": "/gallery/2.jpg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer",
+    "title": "Think for yourself",
+    "primaryBtnText": "view",
+    "secondaryBtnText": "share",
+    "smallText": "9 min read"
+  },
+  {
+    "id": "32",
+    "image": "/gallery/4.jpg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer",
+    "title": "Think of a title",
+    "primaryBtnText": "view",
+    "secondaryBtnText": "share",
+    "smallText": "4 min read"
+  }
+]
